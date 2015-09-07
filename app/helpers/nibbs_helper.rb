@@ -1,0 +1,2 @@
+module NibbsHelper
+end
