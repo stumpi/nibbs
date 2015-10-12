@@ -22,16 +22,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* sudo apt-get install ruby-railties-4.0
-* sudo apt-get install libgmp3-dev
-* sudo apt-get install nodejs
-* sudo apt-get install libsqlite3-dev
-* sudo apt-get install ruby2.0-dev
-* sudo apt-get install zlibc zlib1g zlib1g-dev
-
-* git clone https://github.com/stumpi/nibbs.git
-
-* sudo bundle install
+* ...
 
 
 Please feel free to use a different markup language if you do not plan to run
